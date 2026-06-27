@@ -1,0 +1,6 @@
+{
+  "name": "Bio Link",
+  "description": "A modern, minimalist link-in-bio application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
